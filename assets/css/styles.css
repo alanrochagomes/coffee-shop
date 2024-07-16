@@ -12,6 +12,12 @@
   width: 50px;
 }
 
+/* Main */
+
+main {
+  margin-top: 4rem;
+}
+
 /* Carousel */
 
 .carousel-item {
